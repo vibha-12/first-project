@@ -1,1 +1,0 @@
-Click to your repository {for example yourUsername/yourRepository for example mbaric/test }
